@@ -132,10 +132,4 @@ Your Node.js application is now live on AWS EC2 🎉
 Visit: **http://<YOUR_ELASTIC_IP>:3000**
 
 ---
-
-## 📎 Resources
-- [AWS EC2 Documentation](https://docs.aws.amazon.com/ec2/)  
-- [Node.js on Ubuntu](https://github.com/nodesource/distributions)  
-- [PM2 Process Manager](https://pm2.keymetrics.io/)  
-
 **Happy Shipping! 🚀**
