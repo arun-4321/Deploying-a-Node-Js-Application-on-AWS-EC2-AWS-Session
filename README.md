@@ -8,7 +8,7 @@ This guide walks you through setting up, testing, and deploying a Node.js projec
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/verma-kunal/AWS-Session.git
+git clone https://github.com/arun-4321/AWS-Session.git
 cd AWS-Session
 ```
 
@@ -85,7 +85,7 @@ npm -v
 
 ### 1. Clone the Project
 ```bash
-git clone https://github.com/verma-kunal/AWS-Session.git
+git clone https://github.com/arun-4321/AWS-Session.git
 cd AWS-Session
 ```
 
